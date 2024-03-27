@@ -2,3 +2,5 @@ Operating System
 Networking
 AI
 DBMS
+CPP
+Python
